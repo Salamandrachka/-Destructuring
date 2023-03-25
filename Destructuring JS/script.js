@@ -143,6 +143,21 @@
 
 // console.log(newBooks);
 
+/*6 */
+// const employee = {
+//   name: 'Vitalii',
+//   surname: 'Klichko'
+// }
+
+// let newep = Object.assign({}, employee);
+
+// newep.age = 21;
+
+// newep.salary = 3000;
+
+// console.log(newep);
+// console.log(employee);
+
 /*7*/
 
 // const array = ['value', () => 'showValue'];
