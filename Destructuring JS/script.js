@@ -14,6 +14,10 @@
 // let newArr = arr.filter((item, index) => arr.indexOf(item) === index)
 // console.log(newArr); 
 
+// const newarr = [...new Set([...clients1, ...clients2])];
+
+// console.log(newarr);
+
 /*2*/
 
 // const characters = [
